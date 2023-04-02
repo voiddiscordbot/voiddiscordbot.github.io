@@ -1,11 +1,11 @@
-# Void.github.io
+# voiddiscordbot.github.io
 Void Website!
 
 
 # Made by ZT#3112
 
 # Discord server:
-> https://dsc.gg/Void
+> https://dsc.gg/voidbotdiscord
 
 # Bot invite:
-> https://dsc.gg/Voidadd
+> https://dsc.gg/voidbotadd
